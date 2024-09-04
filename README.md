@@ -1,1 +1,1 @@
-# PINN-for-NS-Equations
+# PINNs
